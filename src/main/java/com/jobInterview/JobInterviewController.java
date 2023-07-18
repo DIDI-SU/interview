@@ -1,6 +1,6 @@
 package com.jobInterview;
 
 public class JobInterviewController {
-	//현지ㅁㄴㅁ
+	//현지ㅁ
 
 }
